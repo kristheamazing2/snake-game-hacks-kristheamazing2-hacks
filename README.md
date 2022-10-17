@@ -8,3 +8,8 @@ with your files, you have to find where it says MoreMenu(1)html, you click on th
 press on the three dots on the bookmark that says imported. Then you rename to Snake Game Hacks
 so you can remember, then go into snake game and go to the three dots press bookmarks then press Snake Game 
 Hacks and it should come up with More Menu Stuff click on that and check your game.
+
+
+ #  How to never die in snake game
+ Set your snake colour skin to rainbow
+ and select the fifteenth trophy.
